@@ -11,7 +11,7 @@ and mobile view.
 - GSAP for animations
 - Three.js for 3d rendering
 
-**See Site live on netlify @** *[reediphone.netlify.app](https://reediphone.netlify.app/)*
+**See Site live on netlify @** 
 
 <br />
 
