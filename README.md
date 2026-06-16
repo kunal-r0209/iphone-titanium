@@ -11,7 +11,7 @@ and mobile view.
 - GSAP for animations
 - Three.js for 3d rendering
 
-**See Site live on netlify @** 
+**See Site live on netlify @** *[https://iphone-titanium.onrender.com/)*
 
 <br />
 
